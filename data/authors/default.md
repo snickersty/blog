@@ -1,16 +1,16 @@
 ---
-name: Tails Azimuth
+name: Takako
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
+occupation: Master Catster
+company: 自由人
 email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+twitter: https://twitter.com/snickersty
+#linkedin: https://www.linkedin.com
+# github: https://github.com
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+公認会計士。三大監査法人、上海でスタートアップ、独立コンサル（スタートアップ中心に財務サポート）を経て、現在は東京に戻って大手製造会社の戦略財務へ。
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+３０代に入り、投資の重要性を実感し、２０２１年から資産運用関連の発信を決意！米国株から暗号資産まで色々情報配信していきます。日曜日は必ず記事を更新するのと、他にも決算やニュースに伴い配信しています ♪
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+趣味は、エクセルで家計簿（祖母の教えで、６歳から家計簿を始めました）、乗馬、ボードゲーム（おすすめあれば教えてください）、最近は Oculus の VR ヘッドセットを買ってはまってます。
