@@ -5,6 +5,7 @@ occupation: Master Catster
 company: 自由人
 email: address@yoursite.com
 twitter: https://twitter.com/snickersty
+note: https://note.com/takako_y
 #linkedin: https://www.linkedin.com
 # github: https://github.com
 ---
