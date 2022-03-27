@@ -10,7 +10,7 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
+  //email: 'address@yoursite.com',
   github: 'https://github.com/snickersty',
   twitter: 'https://twitter.com/snickersty',
   note: 'https://note.com/takako_y',

@@ -1,0 +1,7 @@
+{
+  "better-comments.highlightPlainText": true,
+  "html.format.wrapLineLength": 72,
+  "diffEditor.wordWrap": "on",
+  "editor.wordWrap": "on",
+  "editor.wordWrapColumn": 72
+}
