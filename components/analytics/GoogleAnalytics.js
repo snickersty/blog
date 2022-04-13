@@ -7,7 +7,7 @@ const GAScript = () => {
     <>
       <Script
         strategy="lazyOnload"
-        src={`https://www.googletagmanager.com/gtag/js?id=${siteMetadata.analytics.googleAnalyticsId}`}
+        src={`https://www.googletagmanager.com/gtag/js?id=UA-192093311-1`}
       />
 
       <Script strategy="lazyOnload" id="ga-script">

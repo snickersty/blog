@@ -7,7 +7,7 @@ const ContentSecurityPolicy = `
 default-src 'self';
 script-src 'self' 'unsafe-eval' 'unsafe-inline' googletagmanager.com google-analytics.com pagead2.googlesyndication.com google.com;
 
-style-src 'self' 'unsafe-inline';
+style-src 'self' 'unsafe-inline' googletagmanager.com wgoogle-analytics.com pagead2.googlesyndication.com google.com;
 img-src * blob: data:;
 media-src 'none';
 connect-src *;
