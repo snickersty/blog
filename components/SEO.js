@@ -156,6 +156,11 @@ export const BlogSEO = ({
           dangerouslySetInnerHTML={{
             __html: JSON.stringify(structuredData, null, 2),
           }}
+          id="Adsense-id"
+          data-ad-client="ca-pub-8901152757402205"
+          async="true"
+          strategy="beforeInteractive"
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8901152757402205"
         />
       </Head>
     </>
